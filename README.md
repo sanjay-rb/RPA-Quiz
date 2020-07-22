@@ -1,3 +1,3 @@
 # RPA-Quiz
 
-[Task Page](https://htmlpreview.github.io/?https://github.com/sanjaysanju618/RPA-Quiz/blob/master/index.html)
+[Task Page](https://sanjaysanju618.github.io/RPA-Quiz/index.html)
